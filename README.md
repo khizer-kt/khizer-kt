@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khizer-kt
-- 👀 I’m interested in anything realted to Computers and Programming.
-- 🌱 I’m currently learning more programming :D
-- 💞️ I’m looking to collaborate on programming project :D
+- 👀 I’m interested in learning new programming languages.
+- 💞️ I’m looking to collaborate on programming projects :D
 - 📫 How to reach me https://www.linkedin.com/in/khizer-tariq-948946221/ 
 
 <!---
