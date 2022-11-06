@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khizer-kt
 - 👀 I’m interested in learning new programming languages.
-- 💞️ I’m looking to collaborate on programming projects :D
 - 📫 How to reach me https://www.linkedin.com/in/khizer-tariq-948946221/ 
 
 <!---
