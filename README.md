@@ -17,6 +17,8 @@ I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCE
 - :telescope: I’m working as a Computer Scientist building and devleping applications and programs.
 - :seedling: Exploring New Programming Oppurtunities.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
+---
+### :hammer_and_wrench: Languages and Tools :
 
 <!---
 khizer-kt/khizer-kt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
