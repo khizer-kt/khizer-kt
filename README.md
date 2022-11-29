@@ -33,7 +33,7 @@ I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCE
 </div>
 
 ### :fire: My Stats :
-  <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khizer-kt&show_icons=true&locale=en" alt="khizer-kt" /></p>
+[![States]](https://github-readme-stats.vercel.app/api?username=khizer-kt&show_icons=true&locale=en)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khizer-kt&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khizer-kt)](https://github.com/anuraghazra/github-readme-stats)
 ---
