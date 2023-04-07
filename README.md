@@ -14,7 +14,8 @@
 </h1>
 
 ### :man_technologist: About me:
-I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+- 💻 [Portfolio](https://khizer-kt.github.io/)
 - :seedling: Exploring New Programming opportunities.
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
