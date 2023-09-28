@@ -29,8 +29,6 @@ I am a Full Stack Developer. <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 
 ---
-### :joy: A Fresh Joke :
-![Jokes Card](https://readme-jokes.vercel.app/api)  
 
 <!---
 khizer-kt/khizer-kt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
