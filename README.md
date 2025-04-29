@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/khizer-tariq-016585264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khizer-tariq-016585264/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19426961/khizer-tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19426961/khizer-tariq" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khizer-kt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khizer-kt/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/khizertariq633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/khizertariq633" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
