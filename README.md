@@ -3,7 +3,7 @@
 
 - I’m currently working on shipping AI applications.
 - I often have some research project on the side that I am working on.
-- Used to leetcode for fun, till AI cooked my thinking ability.
+- Used to solve leetcode problems for fun, till AI cooked my thinking ability.
 - How to reach me **khizertariq633@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
